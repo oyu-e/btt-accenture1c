@@ -17,7 +17,7 @@ Google Colab for running Python-based notebooks, enabling accessible and efficie
 - Libraries such as pandas, matplotlib, seaborn, and networkx for data manipulation and visualization.
 - Data Exploration: Focused on understanding the dataset and identifying patterns.
 - Graph Creation: Visualized trends, correlations, and key insights using tools like bar graphs, line graphs, and network diagrams.
-- Results and Key Findings: Sentiment varies across industry. We closely analyzed Banking, Capital Markets, and Communication + Media. Our presentation is here! https://docs.google.com/presentation/d/1tmuB9GFQeSP4wxbp4Kkx7Lf5em79JSLP5oRZpvosN30/edit?usp=sharing
+- Results and Key Findings: Sentiment varies across industry. We closely analyzed Banking, Capital Markets, and Communication + Media. [Click](https://docs.google.com/presentation/d/1tmuB9GFQeSP4wxbp4Kkx7Lf5em79JSLP5oRZpvosN30/edit?usp=sharing) to view our presentation!
 - Potential Next Steps: Incorporate additional datasets to expand the scope of analysis. Enhance visualizations with interactive dashboards.
 
 ## Installation
