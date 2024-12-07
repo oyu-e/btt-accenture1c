@@ -1,7 +1,7 @@
 # Breakthrough Tech - Team Accenture 1C
 
 ## Project Overview
-This project, [Technology News Insights Engine], was developed as part of the AI Studio Challenge with Accenture and Breakthrough Tech. The goal was to explore and analyze technology news articles, providing insights through detailed visualizations and analysis.
+This project, **Technology News Insights Engine**, was developed as part of the AI Studio Challenge with Accenture and Breakthrough Tech. The goal was to explore and analyze technology news articles, providing insights through detailed visualizations and analysis.
 
 ## Objectives and Goals
 Objective 1: Analyze tech articles using knowledge graphs
