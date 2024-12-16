@@ -6,7 +6,7 @@ This project, **Technology News Insights Engine**, was developed as part of the 
 ## Objectives and Goals
 Objective 1: Analyze tech articles using knowledge graphs
 
-Objective 2: Create queries to gain more insight on the data
+Objective 2: Create cypher queries to gain more insight on the data
 
 Objective 3: Learn more about how we can apply ML techniques to industry practices
 
